@@ -1,4 +1,4 @@
-> [!CAUTION]
+> [!NOTE]
 > CV repo now at https://github.com/syllybelle/cv-se
 
 # syllybelle.github.io-cv
